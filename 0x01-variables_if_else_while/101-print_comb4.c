@@ -3,12 +3,14 @@
  * main - prints all possible combinations of three digit
  * the three digit must be different
  * numbers should be printed in asscending order
+ * Return: 0
  */
 int main(void)
 {
 	int n;
 	int m;
 	int l;
+
 	for (n = 48; n < 58; n++)
 	{
 		for (m = 49; m < 58; m++)

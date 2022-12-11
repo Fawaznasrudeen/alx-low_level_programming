@@ -2,7 +2,7 @@
 /**
  * main - c program that prints the alphabet in reverse, followed by a new line
  * using putchar
- * return: Always 0
+ * Return: Always 0
  */
 int main(void)
 {
