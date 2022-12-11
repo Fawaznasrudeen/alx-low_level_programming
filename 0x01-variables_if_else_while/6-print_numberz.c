@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
  * main - C program that prints all single numbers of base 10 starting from 0
  * using putchar
@@ -12,6 +12,6 @@ int main(void)
 	{
 		putchar(n);
 	}
-	putchar("\n");
+	putchar('\n');
 	return (0);
 }
