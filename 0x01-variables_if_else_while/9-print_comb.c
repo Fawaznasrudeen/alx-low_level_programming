@@ -1,21 +1,22 @@
-#include<stdio.h>
-/** 
- * main - C program that prints all possible combinations of single-digit numbers, follow by new line
+#include <stdio.h>
+/**
+ * main - prints all possible combinations of single-digit numbers.
  * only putchar is allow
  * return 0;
  */
 int main(void)
 {
 	int n;
-	for(n = 48; n < 58; n++)
+
+	for (n = 48; n < 58; n++)
 	{
 		putchar(n);
-		if(n != 57)
+		if (n != 57)
 		{
 			putchar(',');
 			putchar(' ');
 		}
 	}
 	putchar('\n');
-	return 0;
+	return (0);
 }
