@@ -1,12 +1,13 @@
 #include <stdio.h>
 /**
- * main - prints alphabetic in lowercase
+ * main - prints alphabetic in lowercase.
  *
- * return: Always 0
+ * return: 0.
  */
 int main(void)
 {
 	int ch;
+
 	for (ch = 'a'; ch <= 'z'; ch++)
 		putchar(ch);
 	putchar('\n');
