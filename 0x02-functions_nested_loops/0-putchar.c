@@ -1,5 +1,5 @@
 #include<stdio.h>
-/** 
+/**
  * main - wrie a program that prints _putchar, followd by new line
  *
  * Return: 0
@@ -15,6 +15,5 @@ int main(void)
 	putchar('a');
 	putchar('r');
 	putchar('\n');
-	
 	return (0);
 }
