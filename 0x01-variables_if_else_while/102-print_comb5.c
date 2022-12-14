@@ -3,13 +3,13 @@
  * main - c program that prints all possible combinations of tw0-digit numbers
  * the number should range from 0-99
  *
- * return: 0
+ * Return: 0
  */
 int main(void)
 {
 	int i;
 	int j;
-	
+
 	for (i = 0; i < 100; i++)
 	{
 		for (j = 0; j < 100; j++)
