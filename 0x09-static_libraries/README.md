@@ -1,1 +1,1 @@
-library in c
+pointers, arrays and string in c
