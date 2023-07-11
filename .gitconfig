@@ -1,0 +1,9 @@
+[user]
+	email = nasrudeenfawaz@gmail.com
+	name = Fawaznasrudeen
+[core]
+	editor = vim
+[init]
+	defaultBranch = main
+[email]
+	name = nasrudeenfawaz@gmail.com
